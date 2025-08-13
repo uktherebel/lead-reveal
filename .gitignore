@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+dist/
+build/
+.next/
+*.log
+
+# Python build artifacts
+*.egg-info/
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test coverage
+coverage/
+
+# Node modules (if any)
+node_modules/
+
+# Others
+*.env
